@@ -5,6 +5,6 @@ a simple ui with reactjs and tailwindcss for creating workflow and steps of work
 
 how to run (this app is a part of a larger project and is not compelete!!):
 
-npm i
+<code>npm i</code>
 
-npm start
+<code>npm start</code>
